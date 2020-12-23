@@ -4,5 +4,5 @@
   
 
 ## Prerequisites 
-Baselines requires Visual Studio 2017
+Requires Visual Studio 2017 and C++ Desktop Development tool installed.
 ### Tested on Windows 7/10 
