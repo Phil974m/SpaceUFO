@@ -1,5 +1,5 @@
 **Status:** Maintenance (expect bug fixes and minor updates)
-<img src="data/pics.jpg" width=25% align="right" /> [![Build status](https://icons8.com/icon/f103Pm7GmbrD/window-bug)
+<img src="https://icons8.com/icon/f103Pm7GmbrD/window-bug" width=25% align="right" /> [![Build status](https://icons8.com/icon/f103Pm7GmbrD/window-bug)
 # SpaceUFO is a C# space shooter 2D game.
   
 
